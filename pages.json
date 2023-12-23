@@ -15,6 +15,12 @@
       }
     },
     {
+      "path": "pages/tabbar/tabbar-5/tabbar-5",
+      "style": {
+        "navigationBarTitleText": "分类"
+      }
+    },
+    {
       "path": "pages/tabbar/tabbar-2/tabbar-2",
       "style": {
         "navigationBarTitleText": "购物车"
@@ -50,6 +56,12 @@
         "iconPath": "static/img/tabbar/home.png",
         "selectedIconPath": "static/img/tabbar/homeactive.png",
         "text": "首页"
+      },
+      {
+        "pagePath": "pages/tabbar/tabbar-5/tabbar-5",
+        "iconPath": "static/img/tabbar/classify.png",
+        "selectedIconPath": "static/img/tabbar/classifactive.png",
+        "text": "分类"
       },
       {
         "pagePath": "pages/tabbar/tabbar-2/tabbar-2",

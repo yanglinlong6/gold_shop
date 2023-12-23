@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../common/vendor.js"),r={data(){return{title:"Hello"}},onLoad(){},methods:{}};function t(a,n,s,c,_,i){return{}}const o=e._export_sfc(r,[["render",t],["__file","/Users/yanglinlong/WebstormProjects/gold_shop/pages/tabbar/tabbar-5/tabbar-5.vue"]]);wx.createPage(o);
