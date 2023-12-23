@@ -1,0 +1,1 @@
+<view class="content"> 页面 - 1 <nut-button wx:if="{{a}}" u-s="{{['d']}}" u-i="427d2110-0" bind:__l="__l" u-p="{{a}}"> 主要按钮 </nut-button></view>
