@@ -40,8 +40,9 @@
 </template>
 
 <script>
-import activityItem from '/components/activityItem.vue';
-import classifyItem from '/components/classifyItem.vue';
+import activityItem from '@/components/activityItem.vue';
+import classifyItem from '@/components/classifyItem.vue';
+import storeCommon from '@/store';
 export default {
 	components: {
 		classifyItem,
@@ -55,9 +56,23 @@ export default {
 			activityList: ['活动', '活动1', '活动2', '活动3', '活动4', '活动5', '活动6']
 		};
 	},
-	onLoad() { },
+	onLoad() {
+		storeCommon.setStorageSync('1', 'dddd')
+	},
 	methods: {
 		changeProduct(num) {
+			// uni.setStorage({
+			// 	key: "key",
+			// 	data: "value",
+			// 	success() {
+			// 		wx.getStorage({
+			// 			key: "key",
+			// 			success(res) {
+			// 				console.log(res.data)
+			// 			}
+			// 		})
+			// 	}
+			// })
 			if (num == 1) {
 				this.classList = ['品类', '品类1', '品类2', '品类3', '品类4', '品类5', '品类6']
 			} else {

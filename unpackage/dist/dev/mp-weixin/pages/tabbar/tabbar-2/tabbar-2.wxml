@@ -1,1 +1,1 @@
-<view class="content"> 购物车页面 </view>
+<view class="content"> 购物车页面 <text>用户名：{{a}}</text><view>年龄：{{b}}</view><nut-button wx:if="{{d}}" u-s="{{['d']}}" bindclick="{{c}}" u-i="7ea55ed0-0" bind:__l="__l" u-p="{{d}}">测试</nut-button></view>

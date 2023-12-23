@@ -1,4 +1,6 @@
 {
   "navigationBarTitleText": "购物车",
-  "usingComponents": {}
+  "usingComponents": {
+    "nut-button": "../../../node-modules/nutui-uniapp/components/button/button"
+  }
 }
