@@ -1,0 +1,1 @@
+<view><nut-grid wx:if="{{b}}" u-s="{{['d']}}" u-i="40b3e1de-0" bind:__l="__l" u-p="{{b}}"><nut-grid-item wx:for="{{a}}" wx:for-item="item" wx:key="a" u-s="{{['d']}}" u-i="{{item.b}}" bind:__l="__l" u-p="{{item.c}}">dongdong</nut-grid-item></nut-grid></view>

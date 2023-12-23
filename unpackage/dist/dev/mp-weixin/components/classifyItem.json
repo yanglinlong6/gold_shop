@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "nut-grid-item": "../node-modules/nutui-uniapp/components/griditem/griditem",
+    "nut-grid": "../node-modules/nutui-uniapp/components/grid/grid"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "nut-cell": "../node-modules/nutui-uniapp/components/cell/cell"
+  }
+}

@@ -1,1 +1,1 @@
-.content{text-align:center;height:400rpx;margin-top:200rpx}
+.content{text-align:center;height:auto;margin-top:0rpx}.search{position:fixed;margin-top:0}

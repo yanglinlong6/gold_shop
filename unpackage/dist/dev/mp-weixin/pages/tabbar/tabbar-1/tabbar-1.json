@@ -1,6 +1,13 @@
 {
   "navigationBarTitleText": "首页",
   "usingComponents": {
-    "nut-button": "../../../node-modules/nutui-uniapp/components/button/button"
+    "activity-item": "../../../components/activityItem",
+    "classify-item": "../../../components/classifyItem",
+    "nut-icon": "../../../node-modules/nutui-uniapp/components/icon/icon",
+    "nut-searchbar": "../../../node-modules/nutui-uniapp/components/searchbar/searchbar",
+    "nut-swiper-item": "../../../node-modules/nutui-uniapp/components/swiperitem/swiperitem",
+    "nut-swiper": "../../../node-modules/nutui-uniapp/components/swiper/swiper",
+    "nut-col": "../../../node-modules/nutui-uniapp/components/col/col",
+    "nut-row": "../../../node-modules/nutui-uniapp/components/row/row"
   }
 }

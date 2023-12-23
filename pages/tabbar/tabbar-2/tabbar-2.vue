@@ -1,6 +1,6 @@
 <template>
 	<view class="content">
-		页面 - 2
+		购物车页面
 	</view>
 </template>
 

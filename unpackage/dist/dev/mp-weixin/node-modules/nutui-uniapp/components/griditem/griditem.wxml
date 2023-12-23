@@ -1,0 +1,1 @@
+<view class="{{d}}" style="{{e}}" bindtap="{{f}}"><view class="{{c}}"><slot/><view class="nut-grid-item__text"><block wx:if="{{a}}">{{b}}</block><slot wx:else name="text"/></view></view></view>

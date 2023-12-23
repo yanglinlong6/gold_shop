@@ -1,1 +1,0 @@
-"use strict";const e=require("../../../common/vendor.js"),t={data(){return{title:"Hello"}},onLoad(){},methods:{}};function o(a,n,s,c,i,_){return{}}const r=e._export_sfc(t,[["render",o],["__file","/Users/yanglinlong/WebstormProjects/gold_shop/pages/tabbar-3-detial/tabbar-3-video/tabbar-3-video.vue"]]);wx.createPage(r);
